@@ -172,11 +172,11 @@ p {
 
 /* link appearance */
 a {
-  color: rgba(127, 67, 55, 1.0);
+  color: rgba(127, 67, 55, 0.8);
 }
 
 a:link {
-  color: rgba(127, 67, 55, 1.0);
+  color: var(--color-primary);
 }
 
 a:hover {

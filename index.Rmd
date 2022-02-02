@@ -15,7 +15,7 @@ output:
    postcards::jolla
 site: distill::distill_website
 ---
-
+<center> *she / her / hers* </center>
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
