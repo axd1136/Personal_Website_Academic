@@ -6,14 +6,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-02-02T13:52:38-08:00"
+      "last_modified": "2022-02-02T14:02:48-08:00"
     },
     {
       "path": "aboutme.html",
       "title": "About Me",
       "author": [],
       "contents": "\nBio\nI grew up in New Jersey and completed my undergraduate career in sun-soaked Coral Gables, FL. I graduated from the University of Miami (Go ’Canes!) in May of 2021 with departmental honors and a Bachelor of Science in Psychology with minors in Art and Chemistry. After trekking across the country with my adorable cat, Momo, I am currently working as a post-baccalaureate lab manager at the Biology and Emotion of Addiction Via Experimental and Reproducible Science (BEAVERS) Laboratory, part of the School of Psychological Science at Oregon State University in Corvallis, OR. We examine the complex psychophysiological relationship between addiction, substance use and affect (e.g., anxiety).\nIn the future, I plan on applying to Clinical Psychology Ph.D. programs in pursuit of reforming the clinical realm and reducing stigma surrounding mental health issues. I am particularly interested in emotional dysregulation, psychotherapy techniques, psychedelic medicine and mindfulness research. I hope to one day be able to combine these interests into research and treatment of addiction, emotional disorders and trauma. In the end, my goals are to help individuals find healing and attenuate the stigma surrounding mental health issues.\nAs a Latina, queer woman, I am incredibly passionate about diversity, equity and inclusion of all individuals in all spaces. I strive to create safe spaces of acceptance in each of my interactions. I am also an advocate of open science practices – including reproducibility and transparency.\nIn my free time, I enjoy reading, creating art of many kinds, listening to music, walking in nature, practicing yoga, expressing gratitude and watching documentaries.\nEducation\nB.S. in Psychology | University of Miami | 2021\nInterests\nAddiction and trauma research\nEmotional regulation\nClinical work\nMental health advocacy\nOpen science\nArt creation\nYoga and mindfulness\nExpanding my knowledge base\nExpressing gratitude\nListening to music\nSkills\nTrilingual (English, Portuguese, Italian)\nR website design\nMicrosoft Office\nAdobe Acrobat, Photoshop and Illustrator\nLogo design\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-02-02T13:52:42-08:00"
+      "last_modified": "2022-02-02T14:02:49-08:00"
     },
     {
       "path": "academic.html",
@@ -27,42 +27,42 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-02-02T13:52:44-08:00"
+      "last_modified": "2022-02-02T14:02:51-08:00"
     },
     {
       "path": "figures.html",
       "title": "Figures",
       "author": [],
       "contents": "\nThe following figures are featured in Bradford et al., 2022.\n\n\n\n\n\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-02-02T13:52:49-08:00"
+      "last_modified": "2022-02-02T14:02:54-08:00"
     },
     {
       "path": "index.html",
       "title": "Angelica DeFalco",
       "author": [],
       "contents": "\n\n          \n      \n      \n      \n      Angelica DeFalco, B.S.\n      \n      \n      About Me\n      CV\n      \n      \n      ACADEMIC PORTFOLIO\n       \n      ▾\n      \n      \n      Figures\n      Logos\n      Posters\n      \n      \n      ☰\n      \n      \n      \n        \n          \n            Angelica DeFalco\n          \n          \n            \n              Hello and welcome to my personal website!\n              I am a post-baccalaureate lab manager for the BEAVERS-Lab at Oregon State University, studying addiction and affect, with the goal of acquiring a Ph.D. in clinical psychology.\n            \n            \n              Hello and welcome to my personal website!\n              I am a post-baccalaureate lab manager for the BEAVERS-Lab at Oregon State University, studying addiction and affect, with the goal of acquiring a Ph.D. in clinical psychology.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-02-02T13:52:51-08:00"
+      "last_modified": "2022-02-02T14:02:55-08:00"
     },
     {
       "path": "logos.html",
       "title": "Logos",
       "author": [],
       "contents": "\nBEAVERS-Lab Logo\n\n\n\nBRAD-Lab Logo\n\n\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-02-02T13:52:56-08:00"
+      "last_modified": "2022-02-02T14:03:01-08:00"
     },
     {
       "path": "momo.html",
       "title": "Momo",
       "author": [],
       "contents": "\n\n          \n      \n      \n      \n      Angelica DeFalco, B.S.\n      \n      \n      About Me\n      CV\n      \n      \n      ACADEMIC PORTFOLIO\n       \n      ▾\n      \n      \n      Figures\n      Logos\n      Posters\n      \n      \n      ☰\n      \n      \n      \n        \n          Momo\n          \n            \n        \n\n        \n          \n      \n      \n        \n          \n          Bio\n          I’m a calico cat, originally born in Delray Beach, FL but have traveled all the way across the country to Corvallis, OR. I followed this cat to this house one day and next thing you know, I had food, a home and so much love!\n          I was named after the lemur from Avatar: The Last Airbender, one of my human’s favorite TV shows. She says I look like him because of my big eyes and ears, but I don’t really see it.\n          I like to sleep during the day and wake my human up at 3am with the zoomies. I’m an energetic and curious lil gal who also loves cuddles, sleeping, licks and human food :)\n          \n          \n          Interests\n          Purring\n          Cuddles\n          Human food\n          Strings, teaser toys, and wires\n          Lasers\n          Playing fetch\n          Sleeping\n          Distill is a publication format for scientific and technical writing, native to the web.\n          Learn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Momo\n            \n            \n              \n                \n                                  \n              \n            \n            \n              \n              Bio\n              I’m a calico cat, originally born in Delray Beach, FL but have traveled all the way across the country to Corvallis, OR. I followed this cat to this house one day and next thing you know, I had food, a home and so much love!\n              I was named after the lemur from Avatar: The Last Airbender, one of my human’s favorite TV shows. She says I look like him because of my big eyes and ears, but I don’t really see it.\n              I like to sleep during the day and wake my human up at 3am with the zoomies. I’m an energetic and curious lil gal who also loves cuddles, sleeping, licks and human food :)\n              \n              \n              Interests\n              Purring\n              Cuddles\n              Human food\n              Strings, teaser toys, and wires\n              Lasers\n              Playing fetch\n              Sleeping\n              Distill is a publication format for scientific and technical writing, native to the web.\n              Learn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-02-02T13:52:58-08:00"
+      "last_modified": "2022-02-02T14:03:02-08:00"
     },
     {
       "path": "posters.html",
       "title": "Academic Posters",
       "author": [],
       "contents": "\n\n\n\nPDF\n\n\n\nPDF\n\n\n\nPDF\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-02-02T13:53:01-08:00"
+      "last_modified": "2022-02-02T14:03:03-08:00"
     }
   ],
   "collections": []
