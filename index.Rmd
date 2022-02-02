@@ -9,6 +9,8 @@ links:
     url: "https://www.linkedin.com/in/angelica-defalco/"
   - label: '`r fontawesome::fa("envelope")`'
     url: "mailto:angelica.defalco@oregonstate.edu"
+  - label: '`r fontawesome::fa("github")`'
+    url: "https://github.com/axd1136/Personal_Website_Academic"
 output:
    postcards::jolla
 site: distill::distill_website
