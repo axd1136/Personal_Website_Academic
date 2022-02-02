@@ -1,0 +1,27 @@
+---
+title: "Logos"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*BEAVERS-Lab Logo*
+```{r out.width='200px', out.extra='style="float:center; padding:10px"', echo=FALSE}
+knitr::include_graphics("files/Dr_BennitoNoBG.png")
+```
+
+*BRAD-Lab Logo*
+```{r out.width='200px', out.extra='style="float:center; padding:10px"', echo=FALSE}
+knitr::include_graphics("files/BRAD-Lab logo.png")
+```
+---
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

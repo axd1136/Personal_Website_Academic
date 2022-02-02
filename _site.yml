@@ -1,0 +1,24 @@
+name: "Personal Website"
+title: "Angelica DeFalco, B.S."
+theme: ange_theme.css
+description: |
+  Angelica DeFalco, B.S.
+output_dir: "_site"
+navbar:
+  logo: 
+    image: "images/logo1.png"
+    href: index.html
+  right:
+    - text: "About Me"
+      href: aboutme.html
+    - text: "CV"
+      href: files/DeFalco_CV.pdf
+    - text: "ACADEMIC PORTFOLIO"
+      menu:
+        - text: "Figures"
+          href: figures.html
+        - text: "Logos"
+          href: logos.html
+        - text: "Posters"
+          href: posters.html
+output: distill::distill_article

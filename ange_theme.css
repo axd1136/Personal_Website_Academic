@@ -1,0 +1,185 @@
+
+/* base variables */
+
+/* Edit the CSS properties in this file to create a custom
+   Distill theme. Only edit values in the right column
+   for each row; values shown are the CSS defaults.
+   To return any property to the default,
+   you may set its value to: unset
+   All rows must end with a semi-colon.                      */
+
+/* Optional: embed custom fonts here with `@import`          */
+/* This must remain at the top of this file.                 */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+:root {
+  /* color scheme save on https://coolors.co as "moorea" */
+  --color-background:   rgba(242, 219, 175, 0.25);
+  --color-primary:      rgba(127, 67, 55, 0.8);
+  --color-primary-dark: rgba(127, 67, 55, 1.0);
+  --color-secondary:    rgba(172, 94, 59, 0.8);
+  --color-tertirary:    rgba(7, 36, 76, 0.8)
+  --color-text:         rgba(172, 94, 59, 1.0);
+  --color-white:        #FFFFFF;
+}
+
+html {
+  /*-- Main font sizes --*/
+  --title-size:      50px;
+  --body-size:       1.06rem;
+  --code-size:       14px;
+  --aside-size:      12px;
+  --fig-cap-size:    13px;
+  /*-- Main font colors --*/
+  --title-color:     var(--color-primary-dark);
+  --header-color:    var(--color-primary-dark);
+  --body-color:      car(--color-text);
+  --aside-color:     var(--color-text);
+  --fig-cap-color:   var(--color-text);
+  /*-- Specify custom fonts ~~~ must be imported above   --*/
+  --heading-font:    Lobster;
+  --mono-font:       monospace;
+  --body-font:       DM-Sans;
+  --navbar-font:     DM-Sans;  /* websites + blogs only */
+}
+
+/*-- ARTICLE METADATA --*/
+d-byline {
+  --heading-size:    0.6rem;
+  --heading-color:   var(--color-primary-dark);
+  --body-size:       0.8rem;
+  --body-color:      var(--color-secondary);
+}
+
+/*-- ARTICLE TABLE OF CONTENTS --*/
+.d-contents {
+  --heading-size:    18px;
+  --contents-size:   13px;
+}
+
+/*-- ARTICLE APPENDIX --*/
+d-appendix {
+  --heading-size:    15px;
+  --heading-color:   var(--color-text);
+  --text-size:       0.8em;
+  --text-color:      var(--color-secondary);
+}
+
+/*-- WEBSITE HEADER + FOOTER --*/
+/* These properties only apply to Distill sites and blogs  */
+
+.distill-site-header {
+  --title-size:       18px;
+  --text-color:       var(--color-secondary);
+  --text-size:        15px;
+  --hover-color:      rgba(7, 36, 76, 0.8);
+  --bkgd-color:       rgba(242, 219, 175, 0.025);
+}
+
+.distill-site-footer {
+  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-size:        15px;
+  --hover-color:      white;
+  --bkgd-color:       #0F2E3D;
+}
+
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+/*changing bullets to open circles*/
+ul {
+ list-style-type: circle;
+}
+
+/* Changing background color*/
+
+html body {
+    background-color: var(--color-background);
+}
+
+/* Change appearance of headers */
+h1, h2, h3, h4, h5 {
+    color: var(--color-primary-dark);
+}
+
+h1, h2 {
+  text-shadow: 2px 1px var(--color-secondary);
+}
+
+/* Makes header uppercase */
+.distill-site-header { 
+  text-transform: uppercase;
+}
+
+/**nav dropdown bar settings**/
+ .nav-dropdown-content {
+    position: absolute;
+    background-color: var(--color-background);
+    min-width: 200px;
+    border: 2px solid var(--color-secondary);
+    border-radius: 4px;
+    box-shadow: 0px 0px 0px 0px var(--color-secondary);
+    z-index: 1;
+    margin-top: 2px;
+    white-space: nowrap;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header {
+    color: var(--color-secondary); 
+    padding: 6px 24px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    background-color: var(--color-background)
+  }
+   .nav-dropdown-content a:hover {
+    background-color: var(--color-background);
+    color: var(--color-tertiary)
+  }
+
+/**buttons**/
+.btn-outline-dark {
+    background-color: inherit;
+    color: var(--color-primary);
+    border: 0px;
+}
+
+.btn-outline-dark:hover {
+    background-color: var(--color-background);
+    color: var(--color-tertiary);
+}
+
+p {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+/*logo in place of title*/
+.distill-site-header .title {
+  display: none;
+}
+
+/*making logo bigger*/
+.distill-site-header .logo img {
+   max-height: 80px;
+   width: auto;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+/* link appearance */
+a:link {
+  color: var(--color-primary)
+}
+a:hover {
+  color: var(--color-tertiary)
+  text-decoration: underline;
+}
+
+/*bolded words*/
+b, strong {
+   color: rgba(172, 94, 59, 1.0);
+}
