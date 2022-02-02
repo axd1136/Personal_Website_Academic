@@ -171,9 +171,11 @@ p {
 }
 
 /* link appearance */
+
 a:link {
-  color: rgba(127, 67, 55, 0.8);
+  color: rgba(127, 67, 55, 1.0);
 }
+
 a:hover {
   color: rgba(7, 36, 76, 0.8);
 }
