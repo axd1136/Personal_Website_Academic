@@ -176,7 +176,7 @@ a {
 }
 
 a:link {
-  color:var(--color-primary);
+  color: rgba(127, 67, 55, 1.0);
 }
 
 a:hover {
