@@ -187,3 +187,9 @@ a:hover {
 b, strong {
    color: rgba(172, 94, 59, 1.0);
 }
+
+.mobilenav {
+		display: block;
+		width: 50%;
+		margin: auto;
+}
