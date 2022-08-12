@@ -21,4 +21,6 @@ navbar:
           href: logos.html
         - text: "Posters"
           href: posters.html
+        - text: "Lectures"
+          href: lectures.html
 output: distill::distill_article
