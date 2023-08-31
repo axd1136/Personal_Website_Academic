@@ -9,7 +9,7 @@ navbar:
     image: "images/logo1.png"
     href: index.html
   right:
-    - text: "About Me"
+    - text: "ABOUT ME"
       href: aboutme.html
     - text: "CV"
       href: files/DeFalco_CV.pdf

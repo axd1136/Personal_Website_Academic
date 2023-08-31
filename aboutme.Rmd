@@ -9,9 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Bio
 
-I grew up in New Jersey and completed my undergraduate career in sun-soaked Coral Gables, FL. I graduated from the University of Miami (Go 'Canes!) in May of 2021 with departmental honors and a Bachelor of Science in Psychology with minors in Art and Chemistry. After trekking across the country with [my adorable cat, Momo](momo.html), I am currently working as a post-baccalaureate lab manager at the [Biology and Emotion of Addiction Via Experimental and Reproducible Science (BEAVERS) Laboratory](https://beaverslab.com/), part of the [School of Psychological Science at Oregon State University](https://catalog.oregonstate.edu/college-departments/liberal-arts/school-psychological-sciences/) in Corvallis, OR. We examine the complex psychophysiological relationship between addiction, substance use and affect (e.g., anxiety).
+I grew up in New Jersey and completed my undergraduate career in sun-soaked Coral Gables, FL. I graduated from the University of Miami (Go 'Canes!) in May of 2021 with departmental honors and a Bachelor of Science in Psychology with minors in Art and Chemistry. After trekking across the country with [my adorable cat, Momo](momo.html), I served as a post-baccalaureate lab manager at the [Biology and Emotion of Addiction Via Experimental and Reproducible Science (BEAVERS) Laboratory](https://beaverslab.com/), part of the [School of Psychological Science at Oregon State University](https://catalog.oregonstate.edu/college-departments/liberal-arts/school-psychological-sciences/) in Corvallis, OR.
 
-In the future, I plan on applying to Clinical Psychology Ph.D. programs in pursuit of reforming the clinical realm, helping individuals find healing and reducing stigma surrounding mental health issues. I am particularly interested in emotional dysregulation, psychotherapy techniques, psychedelic medicine and mindfulness research. I hope to one day be able to combine these interests into research and treatment of addiction, emotional disorders and trauma.
+I am currently a first-year graduate student in the Counseling Psychology PhD program at [Colorado State University](https://psychology.colostate.edu/). I am working with Dr. Noah Emery, whose research centers around investigating the protective factors of positive affect in substance use in young people. With his counsel, I hope to learn more about conducting rigorous ecological momentary assessment (EMA) and intervention (EMI). I am looking forward to learning from all of the incredible faculty and graduate students in this program. 
 
 As someone that values perspective and holds marginalized identities, I am incredibly passionate about diversity, equity and inclusion of all individuals in all spaces. I strive to create safe spaces of *acceptance* in each of my interactions. I am also an advocate of [open science practices](https://osf.io/) -- including reproducibility and transparency.
 
@@ -24,7 +24,7 @@ In my free time, I enjoy reading, creating art of many kinds, listening to music
 ## Interests
 
 * Addiction and trauma research
-* Emotional regulation
+* Emotional dysregulation
 * Clinical work
 * Mental health advocacy
 * Open science
@@ -36,7 +36,8 @@ In my free time, I enjoy reading, creating art of many kinds, listening to music
 
 ## Skills
 * Trilingual (English, Portuguese, Italian)
-* R website design
+* R
+* MATLAB and Neurobehavioral Systems Presentation programming
 * Microsoft Office
 * Adobe Acrobat, Photoshop and Illustrator
 * Logo design
