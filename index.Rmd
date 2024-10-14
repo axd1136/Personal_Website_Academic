@@ -21,4 +21,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 Hello and welcome to my personal website!
 
-I am a first-year Counseling Psychology PhD student at Colorado State University, working with [Dr. Noah Emery](https://psychlabs.colostate.edu/emery/people/). I am interested in better understanding how we can better curate interventions for substance use disorders and emotional dysregulation problems more broadly to leverage personal experience -- particularly centered around positive affect and minfulness -- and take a more holistic approach in therapy.
+I am a second-year Counseling Psychology PhD student at Colorado State University, working with [Dr. Noah Emery](https://psychlabs.colostate.edu/emery/people/). I am interested in better understanding how we can better curate interventions for emotional dysregulation problems more broadly to leverage personal experience -- particularly centered around mindfulness -- and take a more holistic approach in therapy.
