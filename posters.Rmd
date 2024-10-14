@@ -8,6 +8,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r out.width='600px', out.extra='style="float:center; padding:10px"', echo=FALSE}
+knitr::include_graphics("files/Posters/CPA_2024.png")
+```
+[PDF](files/Posters/CPA_2024_SAVORING.pdf)
+
+```{r out.width='600px', out.extra='style="float:center; padding:10px"', echo=FALSE}
 knitr::include_graphics("files/Posters/Concussion_Poster_2022_FINAL.jpg")
 ```
 [PDF](files/Posters/Concussion_ Poster_2022_FINAL.pdf)
